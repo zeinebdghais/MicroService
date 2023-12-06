@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.0.0</version>
+		<version>3.0.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.zeineb</groupId>
@@ -60,11 +60,7 @@
 			 <artifactId>java-jwt</artifactId>
 			 <version>3.4.1</version>
 		</dependency>
-		<dependency>
-			<groupId>com.example</groupId>
-			<artifactId>produits</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+		
 	</dependencies>
 
 	<build>
